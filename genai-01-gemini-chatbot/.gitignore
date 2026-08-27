@@ -1,0 +1,9 @@
+.env
+__pycache__/
+Lib/
+*.cfg
+Include/
+*.pyc
+Scripts/
+logs/
+chat_history.txt
